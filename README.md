@@ -1,4 +1,5 @@
 ## Breast Cancer Awareness skin for b2evolution CMS.
+Link to skin: http://skins.b2evolution.net/breastcancerawareness
 
 <img src="skinshot.png"/>
 
